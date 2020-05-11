@@ -1,0 +1,11 @@
+Package: learnRpkg
+Type: Package
+Title: 'Learn R Package'
+Version: 0.1.0
+Author: Sun <xinyusun@bu.edu>
+Maintainer: Sun <xinyusun@bu.edu>
+Description: leanring write R package. The check tools told me that I have to write two sentences. I wrote three. Yes!
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
